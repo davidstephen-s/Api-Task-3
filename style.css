@@ -1,0 +1,24 @@
+li {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .section-card {
+    font-stretch: wider;
+    color: blue;
+    font-size: 22px;
+    font-weight: bolder;
+  }
+  
+  .title {
+    font-stretch: expanded;
+  }
+  
+  .abstarct-card {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
